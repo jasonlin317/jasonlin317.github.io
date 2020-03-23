@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on JasonLin</title>
+    <link>https://jasonlin317.github.io/post/</link>
+    <description>Recent content in Posts on JasonLin</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zn-Hans</language>
+    <lastBuildDate>Mon, 23 Mar 2020 20:43:55 +0800</lastBuildDate>
+    
+	<atom:link href="https://jasonlin317.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>HelloWorld</title>
+      <link>https://jasonlin317.github.io/post/helloworld/</link>
+      <pubDate>Mon, 23 Mar 2020 20:43:55 +0800</pubDate>
+      
+      <guid>https://jasonlin317.github.io/post/helloworld/</guid>
+      <description>202003023 AllinOne theme 删除了public 文件夹 以及repo 重新生成 并关联</description>
+    </item>
+    
+  </channel>
+</rss>

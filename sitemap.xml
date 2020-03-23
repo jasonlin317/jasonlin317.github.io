@@ -3,12 +3,22 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://jasonlin317.github.io/blog/</loc>
-    <lastmod>2018-09-13T22:31:21+08:00</lastmod>
+    <loc>https://jasonlin317.github.io/post/helloworld/</loc>
+    <lastmod>2020-03-23T20:43:55+08:00</lastmod>
   </url>
   
   <url>
     <loc>https://jasonlin317.github.io/</loc>
+    <lastmod>2020-03-23T20:43:55+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jasonlin317.github.io/post/</loc>
+    <lastmod>2020-03-23T20:43:55+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jasonlin317.github.io/blog/</loc>
     <lastmod>2018-09-13T22:31:21+08:00</lastmod>
   </url>
   

@@ -6,10 +6,19 @@
     <description>Recent content on JasonLin</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zn-Hans</language>
-    <lastBuildDate>Thu, 13 Sep 2018 22:31:21 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 23 Mar 2020 20:43:55 +0800</lastBuildDate>
     
 	<atom:link href="https://jasonlin317.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>HelloWorld</title>
+      <link>https://jasonlin317.github.io/post/helloworld/</link>
+      <pubDate>Mon, 23 Mar 2020 20:43:55 +0800</pubDate>
+      
+      <guid>https://jasonlin317.github.io/post/helloworld/</guid>
+      <description>202003023 AllinOne theme 删除了public 文件夹 以及repo 重新生成 并关联</description>
+    </item>
     
     <item>
       <title>Blog养成记(11) 给网站加个小icon</title>
